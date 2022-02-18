@@ -20,14 +20,11 @@ struct ContentView: View {
                     Text("About Us")
                     Image(systemName: "person.fill")
                 }
-            Text("This is contct us screen")
-                .tabItem {
-                    Text("Contact Us")
-                    Image(systemName: "phone.fill")
+            
                 }
         }
     }
-}
+
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
