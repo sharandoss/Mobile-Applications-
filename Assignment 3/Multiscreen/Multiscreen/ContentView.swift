@@ -17,7 +17,7 @@ struct ContentView: View {
                   }
             Text("This is about us screen")
                 .tabItem {
-                    Text("About Us")
+                    Text("Page 2")
                     Image(systemName: "person.fill")
                 }
             
