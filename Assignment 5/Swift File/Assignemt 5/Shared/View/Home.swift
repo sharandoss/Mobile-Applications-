@@ -1,6 +1,7 @@
 //
 //  Home.swift
 //  MotionParallax (iOS)
+// Motion Parallex Effect using Accelerometer & Gyroscope
 //
 // Followed Youtube Tutorial https://www.youtube.com/watch?v=2DMpS0xiiXU
 
